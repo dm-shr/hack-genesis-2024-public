@@ -13,3 +13,5 @@ faiss-cpu
 tiktoken
 rdflib
 pdf2image
+yandex-chain
+fuzzywuzzy

@@ -10,6 +10,8 @@ __pycache__/
 *.png
 *.svg
 
+.env-prod
+
 # Distribution / packaging
 .Python
 build/
