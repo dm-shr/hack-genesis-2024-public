@@ -1,0 +1,75 @@
+{
+    "table": {
+        "процентные": {
+            "0": "ставками,став",
+            "1": "стоимости, поскольку эти финансовые,стои,скольку",
+            "2": "5"
+        },
+        "ставки": {
+            "0": null,
+            "1": "эти",
+            "2": null
+        },
+        "по": {
+            "0": null,
+            "1": "финансовые",
+            "2": null
+        },
+        "этим": {
+            "0": null,
+            "1": "инструменты",
+            "2": null
+        },
+        "инструментам": {
+            "0": null,
+            "1": null,
+            "2": null
+        },
+        "практически": {
+            "0": null,
+            "1": null,
+            "2": null
+        },
+        "совпадают": {
+            "0": null,
+            "1": null,
+            "2": null
+        },
+        "с": {
+            "0": null,
+            "1": null,
+            "2": null
+        },
+        "указанными": {
+            "0": null,
+            "1": null,
+            "2": null
+        },
+        "выше": {
+            "0": null,
+            "1": null,
+            "2": null
+        },
+        "рынком": {
+            "0": null,
+            "1": null,
+            "2": null
+        },
+        "чными": {
+            "0": null,
+            "1": null,
+            "2": null
+        },
+        "процентными": {
+            "0": null,
+            "1": null,
+            "2": null
+        }
+    },
+    "metadata": {
+        "date_range": "No date information available",
+        "key_metrics": "процентные ставки, стоимость",
+        "summary": "The table provides information on interest rates and their impact on financial instruments. The key metrics include the percentage rates and the cost. However, no specific date range is given."
+    },
+    "company_name": "Главная дорога"
+}

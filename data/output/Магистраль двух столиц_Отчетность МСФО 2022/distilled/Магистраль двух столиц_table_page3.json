@@ -1,0 +1,15 @@
+{
+    "table": {
+        "Unnamed 0": {
+            "0": null,
+            "1": 3.0,
+            "2": null
+        }
+    },
+    "metadata": {
+        "date_range": "No date range available",
+        "key_metrics": "Key metric: 3.0",
+        "summary": "The table contains one row of data. The 'Unnamed 0' column has a key metric value of 3.0. Other columns and a date range are not provided."
+    },
+    "company_name": "Магистраль двух столиц"
+}

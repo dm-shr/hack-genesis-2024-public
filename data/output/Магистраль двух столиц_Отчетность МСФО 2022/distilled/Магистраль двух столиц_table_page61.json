@@ -1,0 +1,25 @@
+{
+    "table": {
+        "2022": {
+            "0": 179,
+            "1": 368484,
+            "2": "4no"
+        },
+        "г_,2021": {
+            "0": null,
+            "1": 30,
+            "2": 425
+        },
+        "г": {
+            "0": null,
+            "1": null,
+            "2": null
+        }
+    },
+    "metadata": {
+        "date_range": "2021-01-01 to 2022-12-31",
+        "key_metrics": "179, 368484, 4no",
+        "summary": "The table provides data for the years 2021 and 2022. The key metrics include a count of 179, a value of 368484, and a label of 4no. There is no data available for the year 2021. Overall, the table shows the values for different metrics over a specific date range."
+    },
+    "company_name": "Магистраль двух столиц"
+}

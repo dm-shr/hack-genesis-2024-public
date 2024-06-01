@@ -1,0 +1,30 @@
+{
+    "table": {
+        "8": {
+            "0": "34.,УСЛОВНЫЕ",
+            "1": "Руководство Группы считает, ЧТО за исключением обязательств, отраженных данной консолидированной финансовой отчетности, У Группы отсутствуют существенные обязательства связанные ущербом окружающей среде. Однако, потенциальные обязательства, которые могут возникнуть вследствие изменений законодательства в области охраны окружающей среды, не могут быть надежно оценены, HО могут быть существенны, Группа не в состоянии предсказать сроки масштаб таких изменений. В случае наступления изменений ОТ Группы может потребоваться проведение модернизации технической базы для того, чтобы соответствовать более строгим нормам",
+            "2": "Группа осуществляет свою деятельность преимущественно в Российской Федерации. Соответственно, на бизнес Группы оказывают влияние экономика и финансовые рынки Российской Федерации, которым присущи особенности развивающегося рынка. Правовая, налоговая и регуляторная системы продолжают развиваться, что сопряжено риском неоднозначности"
+        },
+        "MU,чллuонах": {
+            "0": "ОБЯЗАТЕЛЬСТВА",
+            "1": null,
+            "2": null
+        },
+        "poccutcкuх": {
+            "0": "ПРОДОЛЖЕНИЕ",
+            "1": null,
+            "2": null
+        },
+        "рублей": {
+            "0": null,
+            "1": null,
+            "2": null
+        }
+    },
+    "metadata": {
+        "date_range": "No date range information available",
+        "key_metrics": "No key metrics information available",
+        "summary": "The table provides information about the Group's financial obligations, potential liabilities related to environmental damage, and the impact of the Russian economy and financial markets on the Group's business. The table also mentions the ongoing development of legal, tax, and regulatory systems, which poses a risk of ambiguity. However, specific dates and key metrics are not provided in the table."
+    },
+    "company_name": "Норильский никель"
+}

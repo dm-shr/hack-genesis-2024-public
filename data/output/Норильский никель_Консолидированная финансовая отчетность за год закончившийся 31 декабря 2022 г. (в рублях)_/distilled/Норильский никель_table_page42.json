@@ -1,0 +1,19 @@
+{
+    "table": {
+        "Ha": {
+            "0": "2022,2021,2020"
+        },
+        "31": {
+            "0": null
+        },
+        "декабря": {
+            "0": null
+        }
+    },
+    "metadata": {
+        "date_range": "2020-2022",
+        "key_metrics": "Ha: 2022,2021,2020",
+        "summary": "The table provides the range of dates from 2020 to 2022 along with the key metric 'Ha' which has values for each year. However, there is no information available for the '31' and 'декабря' metrics."
+    },
+    "company_name": "Норильский никель"
+}

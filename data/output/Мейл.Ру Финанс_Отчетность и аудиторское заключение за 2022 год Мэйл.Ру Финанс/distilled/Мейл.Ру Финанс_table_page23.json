@@ -1,0 +1,13 @@
+{
+    "table": {
+        "column1": {
+            "0": 23
+        }
+    },
+    "metadata": {
+        "date_range": "N/A",
+        "key_metrics": "N/A",
+        "summary": "The table contains only one column named 'column1' with one row, which has a value of 23."
+    },
+    "company_name": "Мейл.Ру Финанс"
+}

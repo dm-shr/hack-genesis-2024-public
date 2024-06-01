@@ -1,0 +1,15 @@
+{
+    "table": {
+        "column1": {
+            "row1": null,
+            "row2": null,
+            "row3": 15.0
+        }
+    },
+    "metadata": {
+        "date_range": "No date range available",
+        "key_metrics": "The only available metric is 15.0",
+        "summary": "The table provides a single metric with a value of 15.0. However, no date range is specified in the table."
+    },
+    "company_name": "О1 Пропертиз Финанс"
+}

@@ -1,0 +1,18 @@
+{
+    "table": {
+        "0": {
+            "0": null,
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": 12.0,
+            "5": 12.0
+        }
+    },
+    "metadata": {
+        "date_range": "No date range available",
+        "key_metrics": "12.0",
+        "summary": "The table contains one row with key metric value of 12.0."
+    },
+    "company_name": "УК Первая"
+}

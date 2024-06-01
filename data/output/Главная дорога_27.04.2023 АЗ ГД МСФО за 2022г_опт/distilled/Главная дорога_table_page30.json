@@ -1,0 +1,46 @@
+{
+    "table": {
+        "по": {
+            "0": "~UI",
+            "1": "30"
+        },
+        "получению": {
+            "0": "лчш",
+            "1": null
+        },
+        "необходимых": {
+            "0": "по",
+            "1": null
+        },
+        "разрешении": {
+            "0": "обеспечению",
+            "1": null
+        },
+        "ПО": {
+            "0": "сроков",
+            "1": null
+        },
+        "обеспечению": {
+            "0": "условий",
+            "1": null
+        },
+        "выполнения": {
+            "0": "строительства",
+            "1": null
+        },
+        "предварительных": {
+            "0": "автомобильной",
+            "1": null
+        },
+        "условий": {
+            "0": "дороги",
+            "1": null
+        }
+    },
+    "metadata": {
+        "date_range": "N/A",
+        "key_metrics": "N/A",
+        "summary": "The table does not provide any specific information about date range, key metrics, or a summary. It seems to contain incomplete and unrelated data."
+    },
+    "company_name": "Главная дорога"
+}

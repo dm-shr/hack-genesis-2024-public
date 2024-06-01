@@ -1,0 +1,14 @@
+{
+    "table": {
+        "Unnamed: 0": {
+            "0": null,
+            "1": 24
+        }
+    },
+    "metadata": {
+        "date_range": "от None до 24",
+        "key_metrics": "Unnamed: 0",
+        "summary": "Таблица содержит только одну колонку 'Unnamed: 0', с диапазоном значений от None до 24."
+    },
+    "company_name": "Магистраль двух столиц"
+}

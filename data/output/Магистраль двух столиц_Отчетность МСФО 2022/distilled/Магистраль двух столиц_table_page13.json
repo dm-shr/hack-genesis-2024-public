@@ -1,0 +1,13 @@
+{
+    "table": {
+        "column1": {
+            "row1": 13
+        }
+    },
+    "metadata": {
+        "date_range": "N/A",
+        "key_metrics": "N/A",
+        "summary": "The table consists of one column and one row, with a value of 13. No date range or key metrics are provided. The table does not provide enough information for further analysis."
+    },
+    "company_name": "Магистраль двух столиц"
+}

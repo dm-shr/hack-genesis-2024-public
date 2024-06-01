@@ -1,0 +1,117 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://example.com/> .
+
+ex:MOEX a ex:Company ;
+    rdfs:label "МОСКОВСКАЯ БИРЖА ММВБ-РТС" ;
+    ex:altLabel "МОСКОВСКАЯ БИРЖА ММВБ-РТС" ;
+    ex:altLabel "Moscow Exchange" ;
+    ex:altLabel "MOEX Group" ;
+    ex:altLabel "MICEX-RTS" ;
+    ex:altLabel "Moscow Interbank Currency Exchange" ;
+    ex:altLabel "Moscow Stock Exchange" ;
+    ex:altLabel "Moscow Exchange MICEX-RTS" ;
+    ex:altLabel "Moscow Exchange Group" ;
+    ex:altLabel "Московская Биржа" ;
+    ex:altLabel "МосБиржа" ;
+    ex:altLabel "Группа МОЭКС" ;
+    ex:altLabel "ММВБ-РТС" ;
+    ex:altLabel "Московская Межбанковская Валютная Биржа" ;
+    ex:altLabel "Московская Фондовая Биржа" ;
+    ex:altLabel "Московская Биржа ММВБ-РТС" ;
+    ex:altLabel "Группа Московская Биржа" ;
+    ex:sourceDoc "Summary_MICEX-RTS_FS_4Q2022_RUS.pdf" .
+
+ex:FIVE a ex:Company ;
+    rdfs:label "X5 Retail Group" ;
+    ex:altLabel "Пятёрочка" ;
+    ex:altLabel "X5 Retail" ;
+    ex:altLabel "X5 Group" ;
+    ex:altLabel "Перекрёсток" ;
+    ex:altLabel "X5 Retail Group" ;
+    ex:sourceDoc "x5_q2_2022_financial_results_rus.pdf" .
+
+ex:GMKN a ex:Company ;
+    rdfs:label "Норильский Никель" ;
+    ex:altLabel "Norilsk Nickel" ;
+    ex:altLabel "Nornickel" ;
+    ex:altLabel "MMC Norilsk Nickel" ;
+    ex:altLabel "Norilsk Mining Company" ;
+    ex:altLabel "Norilsk Nickel Mining" ;
+    ex:altLabel "ГМК Норильский Никель" ;
+    ex:altLabel "Норникель" ;
+    ex:altLabel "Норильский Никель" ;
+    ex:altLabel "ГМК Норникель" ;
+    ex:altLabel "Горнодобывающая компания Норильский Никель" ;
+    ex:sourceDoc "Консолидированная финансовая отчетность за год закончившийся 31 декабря 2022 г. (в рублях)_.pdf" .
+
+ex:TROY a ex:Company ;
+    rdfs:label "Управляющая компания «Первая»" ;
+    ex:altLabel "Управляющая компания «Первая»" ;
+    ex:altLabel "First Management Company" ;
+    ex:altLabel "First Asset Management" ;
+    ex:altLabel "First Investment Company" ;
+    ex:altLabel "First Fund Management" ;
+    ex:altLabel "First Capital Management" ;
+    ex:altLabel "First Financial Management" ;
+    ex:altLabel "Управляющая компания Первая" ;
+    ex:altLabel "УК Первая" ;
+    ex:altLabel "Первая управляющая компания" ;
+    ex:altLabel "Первая УК" ;
+    ex:sourceDoc "МСФО отчетность 2022_УК Первая_2022.pdf" .
+
+ex:VKCO a ex:Company ;
+    rdfs:label "Мэйл.Ру" ;
+    ex:altLabel "Mail.Ru" ;
+    ex:altLabel "MailRu" ;
+    ex:altLabel "MailRu Group" ;
+    ex:altLabel "Mail.Ru Group" ;
+    ex:altLabel "Mail.Ru Company" ;
+    ex:altLabel "Mail.Ru Holdings" ;
+    ex:altLabel "Мэйл.Ру Групп" ;
+    ex:altLabel "Мэйл.Ру Холдинг" ;
+    ex:altLabel "Мэйл.Ру Компания" ;
+    ex:altLabel "Мэйл.Ру Груп" ;
+    ex:altLabel "Мэйл.Ру" ;
+    ex:altLabel "Мэйл Ру" ;
+    ex:sourceDoc "Отчетность и аудиторское заключение за 2022 год Мэйл.Ру Финанс.pdf" .
+
+ex:GD a ex:Company ;
+    rdfs:label "Главная Дорога" ;
+    ex:altLabel "Главная Дорога" ;
+    ex:altLabel "Main Road" ;
+    ex:sourceDoc "27.04.2023 АЗ ГД МСФО за 2022г_опт.pdf" .
+
+ex:O1 a ex:Company ;
+    rdfs:label "Пропертиз Финанс" ;
+    ex:altLabel "Пропертиз Финанс" ;
+    ex:altLabel "Properties Finance" ;
+    ex:altLabel "O1 Properties Finance" ;
+    ex:altLabel "O1 Пропертиз Финанс" ;
+    ex:sourceDoc "O1 Properties Finance FS 2022 signed.pdf" .
+
+ex:ABRD a ex:Company ;
+    rdfs:label "Абрау Дюрсо" ;
+    ex:altLabel "Абрау Дюрсо" ;
+    ex:altLabel "Abrau Durso" ;
+    ex:altLabel "Abrau-Durso" ;
+    ex:altLabel "AbrauDurso" ;
+    ex:altLabel "Abrau Durso Company" ;
+    ex:altLabel "Компания Абрау-Дюрсо" ;
+    ex:altLabel "АбрауДюрсо" ;
+    ex:sourceDoc "АЗ+КФО Абрау-Дюрсо_2022 (3).pdf" .
+
+ex:MOSSPB a ex:Company ;
+    rdfs:label "Магистраль Двух Столиц" ;
+    ex:altLabel "Магистраль Двух Столиц" ;
+    ex:altLabel "Mainline of Two Capitals" ;
+    ex:altLabel "Two Capitals Highway" ;
+    ex:altLabel "Two Capitals Main Road" ;
+    ex:altLabel "Two Capitals Route" ;
+    ex:sourceDoc "Отчетность МСФО 2022.pdf" .
+
+ex:ARAGON a ex:Company ;
+    rdfs:label "Арагон" ;
+    rdfs:label "Арагон" ;
+    rdfs:label "Aragon" ;
+    ex:sourceDoc "Финансовая отчетность по МСФО (12 месяцев 2022 года).pdf" .

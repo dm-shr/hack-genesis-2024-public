@@ -1,0 +1,13 @@
+input_variables: [source_text, source_data]
+template: 'Ты ИИ-ассистент в финансовой деятельности. 
+
+Ответь на данный вопрос: "{source_text}"
+
+На основе этих данных
+
+{source_data}
+
+Извлеки только нужные данные на основании вопроса:
+'
+template_format: f-string
+_type: prompt
